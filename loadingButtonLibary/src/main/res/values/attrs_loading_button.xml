@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="LoadingButton">
+        <attr name="textButton" format="string" />
+        <attr name="borderRadius" format="dimension" />
+        <attr name="buttonColor" format="color" />
+        <attr name="textColor" format="color" />
+    </declare-styleable>
+</resources>
